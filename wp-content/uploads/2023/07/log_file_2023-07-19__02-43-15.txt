@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Marketplace were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2023/07/demo-content-import-file_2023-07-19__02-43-15.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2023/07/demo-widgets-import-file_2023-07-19__02-43-15.json
+Customizer
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer Widget 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widget 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
